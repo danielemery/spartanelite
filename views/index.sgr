@@ -1,3 +1,12 @@
 extends(src='layout.sgr')
   block(name='content')
-    h2 Hello World!
+    .container.main-container
+      h2 Our Experience With Spartan Elite
+      .alert.alert-warning Please note we are in no way affiliated with Spartan Elite we just wished to share our experience with the company for others looking to apply.
+
+      ul.list-group.list-group-flush
+        li.list-group-item Based in Adelaide
+        li.list-group-item Using Seek and Indeed to look for a new position as wait staff
+        li.list-group-item Came across advertisement seeking "Wait staff looking for new oppurtunities", later discovered several other entries from Spartan matching the "Job role x looking for new oppurtunities"
+        li.list-group-item Could not find any information online about the company
+        li.list-group-item Was contacted immediately by phone with a request for an interview
