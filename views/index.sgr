@@ -1,12 +1,51 @@
 extends(src='layout.sgr')
   block(name='content')
-    .container.main-container
-      h2 Our Experience With Spartan Elite
-      .alert.alert-warning Please note we are in no way affiliated with Spartan Elite we just wished to share our experience with the company for others looking to apply.
+    .container.main-container.text-center
+      img.header-icon(src='/img/spartan-icon.png')
+      .inline-heading
+        h1 My Experience
+        h3 With Spartan Elite Adelaide
+      .row
+        .col-md.card-col
+          div.card.border-danger
+            div.card-header Disclaimer
+            div.card-body
+              p.card-text I am in no way affiliated with Spartan Elite, I just wished to share my experience with the company for others looking to apply.
+        .col-md.card-col
+          div.card
+            div.card-header Scenario
+            div.card-body
+              ul.card-text
+                li I am a woman who recently moved to Adelaide, Australia.
+                li Using Seek and Indeed to look for a new position working as a waitress or similar role.
+                li Came across advertisements seeking "Wait staff looking for new oppurtunities" (see screenshot below for examples).
+      .row
+        .col-md.card-col
+          .card
+            .card-header The Process
+            .card-body
+              ul.card-text
+                li Applied for the position although I could not find any information online about the company
+                li After applying I was contacted immediately by phone with a request for an interview
+                li Location for interview in an industrial area near woodville
+                li First interview was very brief with little details provided about the job
+                li I was invited for a second interview just a few days later
+                li Second interview was a group interview which went for over 2.5 hours which consisted mostly of advertisement for the company and little actual engaging with the candidates
+        .col-md.card-col
+          .card
+            .card-header The Position
+            .card-body
+              ul.card-text
+                li Although it was never voluntarily mentioned I eventually found out the role is a door-to-door salesperson attempting to get donations for charity
+                li Pay is based only on commission with no base salary
+                li Each day starts with a two hour "motivational coaching and training session" which is unpayed
 
-      ul.list-group.list-group-flush
-        li.list-group-item Based in Adelaide
-        li.list-group-item Using Seek and Indeed to look for a new position as wait staff
-        li.list-group-item Came across advertisement seeking "Wait staff looking for new oppurtunities", later discovered several other entries from Spartan matching the "Job role x looking for new oppurtunities"
-        li.list-group-item Could not find any information online about the company
-        li.list-group-item Was contacted immediately by phone with a request for an interview
+      .row
+        .col-md
+          .card
+            .card-header Ad Examples
+            .card-body
+              p.font-italic Some examples of Spartan Seek advertisements
+              img.img-fluid(src='/img/seek_ads.png' alt='Some examples of Spartan Seek advertisements')
+
+      
