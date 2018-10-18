@@ -6,9 +6,10 @@ html
     meta(name='description' content='Minimal website to provide information about my experience applying for a job with Spartan Elite in Adelaide, Australia')
     meta(name='author' content='anonymous')
     meta(name='viewport' content='width=device-width, initial-scale=1')
+    meta(name='title' content='My Experience Applying For A Job With Spartan Elite Adelaide')
 
     block(name='title')
-      title My Spartan Elite Experience
+      title My Experience Applying For A Job With Spartan Elite Adelaide
 
     link(rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css' integrity='sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO' crossorigin='anonymous')
     link(rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:400,400i')
