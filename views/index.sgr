@@ -1,7 +1,7 @@
 extends(src='layout.sgr')
   block(name='content')
     .container.main-container.text-center
-      img.header-icon(src='/img/spartan-icon.png')
+      img.header-icon(src='/img/spartan-icon.png' alt='Spartan Recruitment Logo' title='Spartan Recruitment Logo')
       .inline-heading
         h1 My Experience
         h3 With Spartan Elite Adelaide
@@ -49,6 +49,6 @@ extends(src='layout.sgr')
             .card-header Ad Examples
             .card-body
               p.font-italic Some examples of Spartan Seek advertisements
-              img.img-fluid(src='/img/seek_ads.png' alt='Some examples of Spartan Seek advertisements')
+              img.img-fluid(src='/img/seek_ads.png' alt='Some examples of Spartan Seek advertisements' title='Spartan Seek Advertisement Examples')
 
       
