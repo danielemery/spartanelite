@@ -25,20 +25,23 @@ extends(src='layout.sgr')
             .card-header The Process
             .card-body
               ul.card-text
-                li Applied for the position although I could not find any information online about the company
-                li After applying I was contacted immediately by phone with a request for an interview
-                li Location for interview in an industrial area near woodville
-                li First interview was very brief with little details provided about the job
-                li I was invited for a second interview just a few days later
-                li Second interview was a group interview which went for over 2.5 hours which consisted mostly of advertisement for the company and little actual engaging with the candidates
+                li I applied for the position although I could not find any information online about the company.
+                li After applying I was contacted immediately by phone with a request for an interview.
+                li Location for the interview was in an industrial area near Woodville.
+                li First interview was very brief with sparse details provided about the role.
+                li I was invited for a second interview just a few days later.
+                li Second interview was a group interview which went for over 2.5 hours which consisted mostly of advertisement for the company and little actual engaging with the candidates.
+                li The young speaker mentioned he makes $10k each week in an attempt to lure candidates.
         .col-md.card-col
           .card
             .card-header The Position
             .card-body
               ul.card-text
-                li Although it was never voluntarily mentioned I eventually found out the role is a door-to-door salesperson attempting to get donations for charity
-                li Pay is based only on commission with no base salary
-                li Each day starts with a two hour "motivational coaching and training session" which is unpayed
+                li Although it was never voluntarily mentioned I eventually found out the role is a door-to-door salesperson attempting to solicit donations for charity.
+                li Pay is based only on commission with no base salary.
+                li Each day starts with a two hour "motivational coaching and training session" which is unpaid.
+                li The company has previously gone by the names "Spartan Alliance" and "White Rhino".
+                li They use the term "Residential" for the location, which through research I understand to mean 1-2 hours out of Adelaide.
 
       .row
         .col-md
