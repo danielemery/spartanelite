@@ -1,1 +1,4 @@
-console.log('you can use ES6 here : )')
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-127732645-1');
