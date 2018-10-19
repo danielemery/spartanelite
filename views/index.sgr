@@ -18,7 +18,7 @@ extends(src='layout.sgr')
               ul.card-text
                 li I am a woman who recently moved to Adelaide, Australia.
                 li Using Seek and Indeed to look for a new position working as a waitress or similar role.
-                li Came across advertisements seeking "Wait staff looking for new oppurtunities" (see screenshot below for examples).
+                li Came across advertisements seeking "Wait staff looking for new opportunities" (see screenshot below for examples).
       .row
         .col-md.card-col
           .card
