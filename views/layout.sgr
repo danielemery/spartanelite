@@ -7,7 +7,6 @@ html
     meta(name='author' content='anonymous')
     meta(name='viewport' content='width=device-width, initial-scale=1')
     meta(name='title' content='My Experience Applying For A Job With Spartan Elite Adelaide')
-    meta(name='google-site-verification' contents='M_Rs3Pjph81sHVzbAAm0-nn09ABFa5IYusOQt5HBf2M')
     script(async src='https://www.googletagmanager.com/gtag/js?id=UA-127732645-1')
 
     block(name='title')
